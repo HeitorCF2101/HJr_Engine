@@ -1,0 +1,40 @@
+# Build
+build/
+cmake-build-*/
+out/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+
+# Compilação
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+Makefile
+
+# PCH
+*.pch
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
